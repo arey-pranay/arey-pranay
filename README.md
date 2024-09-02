@@ -59,3 +59,24 @@ Created a productivity web app with Firebase for auth and data, React for intera
 Developed a project collection with sign-in, project viewing, proposal submission, and tipping features. Utilized Clerk for authentication, Stripe for secure payments, and MongoDB for data management, all built in Next.js. Includes 10+ projects.
 
 - **Technologies**: Next.js / Typescript / Stripe / Clerk / MongoDB / Tailwind CSS
+
+### MyCycle Official Website
+*Feb 2022 - Apr 2022*
+
+Created the official website for your startup, which has been effective in showcasing your business to investors, incubators, and other entrepreneurs. The site has also enhanced consumer engagement and provided valuable impressions for your audience.
+
+- **Technologies**: HTML/ CSS / JS / Tailwind CSS
+
+### i-was-db
+*Sep 2023 - Oct 2023*
+
+"I Was DB" is a film website dedicated to celebrating overlooked and nostalgic movies with a quirky, engaging approach. It aims to spotlight hidden gems and offer a unique alternative to larger databases like IMDb.
+
+- **Technologies**: Next.js / Javascript / RapidAPI / TailwindCSS
+
+### Skillcamper Learning Platform
+*Jul 2024 - Sep 2024*
+
+Revamped Skillcamper using Next.js, featuring integrated payment systems, login, dynamic animations, user profiles, courses, career paths, advanced filters, and video playback for a comprehensive and engaging platform.
+
+- **Technologies**: Next.js / shaka-player / Tailwind CSS / MongoDB / REST APIs / Axios
