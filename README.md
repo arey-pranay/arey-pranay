@@ -67,7 +67,7 @@ Created the official website for your startup, which has been effective in showc
 
 - **Technologies**: HTML/ CSS / JS / Tailwind CSS
 
-### i-was-db
+### I-Was-DB
 *Sep 2023 - Oct 2023*
 
 "I Was DB" is a film website dedicated to celebrating overlooked and nostalgic movies with a quirky, engaging approach. It aims to spotlight hidden gems and offer a unique alternative to larger databases like IMDb.
@@ -80,3 +80,17 @@ Created the official website for your startup, which has been effective in showc
 Revamped Skillcamper using Next.js, featuring integrated payment systems, login, dynamic animations, user profiles, courses, career paths, advanced filters, and video playback for a comprehensive and engaging platform.
 
 - **Technologies**: Next.js / shaka-player / Tailwind CSS / MongoDB / REST APIs / Axios
+
+### Pranays Pacman
+*Jul 2023 - Sep 2023*
+
+Enhanced UI of Google's "Transfer Learning to Play Pac-Man via Webcam using TensorFlow.js”. Gained hands-on experience with in-browser machine learning, transforming my perception of ML's complexity and integrating UI enhancements. Leveraged Stephen Grider's Udemy course and Jason Mayes' YouTube series to guide my learning.
+
+- **Technologies**: Javascript/ Tensorflow.js / TailwindCSS
+
+### Elm 3D Projects
+*Apr 2022 - Sep 2023*
+
+These projects integrate 3D graphics with Elm's functional programming to create unique and interactive web experiences. They showcase innovative visual effects and user interactions, combining advanced graphics techniques with Elm’s robust, functional approach.
+
+- **Technologies**: Elm / Elm-Physics / Elm-3d-scene
