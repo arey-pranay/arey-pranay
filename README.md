@@ -1,6 +1,5 @@
 ### 👋 Hi there 👋
 
-![MyGit](https://github.com/arey-pranay/arey-pranay/assets/86497126/f7128a3b-9aec-4c13-af5e-8905defa0a2d)
 ![](https://github.com/arey-pranay/arey-pranay/blob/main/PranayResumeDeveloper.pdf.gif)
 
 ## 👨🏼‍💻 My Work 👨🏼‍💻
@@ -110,3 +109,5 @@ This weekend project is a website with a highly effective UI, built using the sh
 Floa-Todo is a playful project with floating to-do items, inspired by Harsh Sharma. It uses Framer Motion for animations and Vanilla Tilt for image effects, styled with Tailwind CSS for an intuitive design experience.
 
 - **Technologies**: React.js / Vanilla-tilt / Framer-Motion
+
+![MyGit](https://github.com/arey-pranay/arey-pranay/assets/86497126/f7128a3b-9aec-4c13-af5e-8905defa0a2d)
