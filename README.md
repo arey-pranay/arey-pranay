@@ -94,3 +94,18 @@ Enhanced UI of Google's "Transfer Learning to Play Pac-Man via Webcam using Tens
 These projects integrate 3D graphics with Elm's functional programming to create unique and interactive web experiences. They showcase innovative visual effects and user interactions, combining advanced graphics techniques with Elm’s robust, functional approach.
 
 - **Technologies**: Elm / Elm-Physics / Elm-3d-scene
+
+
+### Hardbit Computers Official Website
+*Apr 2023 - Sep 2023*
+
+This weekend project is a website with a highly effective UI, built using the shery.js library. Shery.js combines features from GSAP and three.js, providing customizable presets and impressive effects. The development process was a significant learning experience, showcasing the power of this versatile tool.
+
+- **Technologies**: HTML / CSS / JS / Shery.js / Three.js / GSAP
+
+### FloaTodo DND To-Dos
+*Aug 2022 - Nov 2023*
+
+Floa-Todo is a playful project with floating to-do items, inspired by Harsh Sharma. It uses Framer Motion for animations and Vanilla Tilt for image effects, styled with Tailwind CSS for an intuitive design experience.
+
+- **Technologies**: React.js / Vanilla-tilt / Framer-Motion
