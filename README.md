@@ -10,12 +10,18 @@
 
 Engineered a website and mobile app for centralizing office cashflow worth lakhs of rupees, management of more than 20 employees, and performance tracking, with seamless printer integration for on-demand receipts.
 
+![image](https://github.com/user-attachments/assets/0adecc9c-edc2-41a4-b23a-5749490c866a)
+
+
 - **Technologies**: React-Native / Expo / Nativewind / Firebase / React.js / React-Router
 
 ### Pranay’s Pokedex
 *May 2024 - Jun 2024*
 
 An engaging website featuring my friends as Pokémon characters, where users explore 3D models and discover fun trivia and unique attributes about each person. The avatar and details are accessed by scanning a special photo of me with the person.
+
+![image](https://github.com/user-attachments/assets/94c7113d-e245-4f45-a34e-9f316806c1e7)
+
 
 - **Technologies**: MindAR / Three.js / Tensorflow.js / Javascript / Tailwind CSS
 
@@ -24,6 +30,8 @@ An engaging website featuring my friends as Pokémon characters, where users exp
 
 A blog platform featuring in-depth articles and interactive MDX code demos on APIs, frontend frameworks, backend systems, 3D web, augmented reality, and UI/UX. Its goal is to empower developers of all skill levels.
 
+![image](https://github.com/user-attachments/assets/de36acee-513a-4a88-84bb-e1a97cfec02c)
+
 - **Technologies**: Next.js / MDX / Velite / ShadCN / Tailwind CSS
 
 ### Memory Matrix 3D
@@ -31,12 +39,18 @@ A blog platform featuring in-depth articles and interactive MDX code demos on AP
 
 Built a React-Native game with 3D avatars from Ready Player Me. Included a web Avatar Creator for uploads and previews, and designed gameplay around matching 3D models that react to player actions.
 
+![image](https://github.com/user-attachments/assets/d59b28c8-8a97-4210-8421-35c20c8d44b4)
+
+
 - **Technologies**: React-Native / React-Three-Fiber / Expo / Blender / ReadyPlayerMe
 
 ### CryptoNight
 *Jul 2024 - Aug 2024*
 
 A cryptocurrency web app with a market cap chart, recently viewed and watchlist sections, top/trending crypto displays, and paginated exploration. Features interactive elements, custom animations, and detailed product pages.
+
+![Uploading image.png…]()
+
 
 - **Technologies**: Next.js / Redux Toolkit / CoinGecko / React-Redux / React-DND / Chart.js
 
