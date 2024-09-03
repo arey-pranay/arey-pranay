@@ -60,7 +60,8 @@ A cryptocurrency web app with a market cap chart, recently viewed and watchlist 
 
 Built a web game, "Clash Of Chess," using Next.js and WebSockets. It’s a 5x5 grid game with 5 pieces per side, where Pawns move one step and Heroes move differently. WebSockets manage real-time communication and game state updates.
 
-![image](https://github.com/user-attachments/assets/7c750523-c49b-4ed7-a2e7-1761a5000cc9)
+!![image](https://github.com/user-attachments/assets/2113c521-691b-48f1-89cd-6acec955a58b)
+
 
 
 - **Technologies**: Next.js / WebSockets / Tailwind CSS
