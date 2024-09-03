@@ -60,7 +60,7 @@ A cryptocurrency web app with a market cap chart, recently viewed and watchlist 
 
 Built a web game, "Clash Of Chess," using Next.js and WebSockets. It’s a 5x5 grid game with 5 pieces per side, where Pawns move one step and Heroes move differently. WebSockets manage real-time communication and game state updates.
 
-!![image](https://github.com/user-attachments/assets/2113c521-691b-48f1-89cd-6acec955a58b)
+![image](https://github.com/user-attachments/assets/2113c521-691b-48f1-89cd-6acec955a58b)
 
 
 
@@ -149,7 +149,7 @@ This weekend project is a website with a highly effective UI, built using the sh
 
 
 ### Sum-Rizz-Er
-*Jan 2024 - Jul 2024*
+*Oct 2023 - Nov 2023*
 
 Just finished a sleek web app that summarizes any article link in seconds, built with React, Vite, Tailwind, and Material UI, and powered by the "Article Extractor and Summarizer" API from RapidAPI.
 
@@ -161,7 +161,7 @@ Just finished a sleek web app that summarizes any article link in seconds, built
 
 
 ### VitShop
-*Jan 2024 - Jul 2024*
+*Sep 2022 - Nov 2022*
 
 From tantalizing treats to captivating curiosities, embark on a whimsical journey through our virtual marketplace, curated exclusively for the adventurous student in you!
 
@@ -170,7 +170,7 @@ From tantalizing treats to captivating curiosities, embark on a whimsical journe
 - **Technologies**: HTML / CSS / Javascript / Complex Vanilla CSS Animations
 
 ### FloaTodo DND To-Dos
-*Aug 2022 - Nov 2023*
+*Aug 2023 - Nov 2023*
 
 Floa-Todo is a playful project with floating to-do items, inspired by Harsh Sharma. It uses Framer Motion for animations and Vanilla Tilt for image effects, styled with Tailwind CSS for an intuitive design experience.
 
@@ -180,7 +180,7 @@ Floa-Todo is a playful project with floating to-do items, inspired by Harsh Shar
 - **Technologies**: React.js / Vanilla-tilt / Framer-Motion
 
 ### Stoic Stocks
-*Aug 2022 - Nov 2023*
+*Aug 2023 - Oct 2023*
 
 A simple app that fetches live data from the stock market and shows it to you based on your selections. It is designed to have a clean UI so you don't have many distractions, so you can focus only on your stocks, like a stoic. jk..
 
