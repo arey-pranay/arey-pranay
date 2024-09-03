@@ -1,6 +1,7 @@
 ### 👋 Hi there 👋
 
 ![](https://github.com/arey-pranay/arey-pranay/blob/main/PranayResumeDeveloper.pdf.gif)
+![](https://github.com/arey-pranay/arey-pranay/blob/main/PranayResumeDeveloperHD.pdf.gif)
 
 ## 👨🏼‍💻 My Work 👨🏼‍💻
 
