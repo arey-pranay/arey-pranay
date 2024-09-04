@@ -159,16 +159,6 @@ Just finished a sleek web app that summarizes any article link in seconds, built
 
 - **Technologies**: React.js / Rest APIs / Tailwind CSS
 
-
-### VitShop
-*Sep 2022 - Nov 2022*
-
-From tantalizing treats to captivating curiosities, embark on a whimsical journey through our virtual marketplace, curated exclusively for the adventurous student in you!
-
-![image](https://github.com/user-attachments/assets/afec8336-4f0f-4ff4-b390-cf6ce1aeb4b1)
-
-- **Technologies**: HTML / CSS / Javascript / Complex Vanilla CSS Animations
-
 ### FloaTodo DND To-Dos
 *Aug 2023 - Nov 2023*
 
@@ -188,3 +178,12 @@ A simple app that fetches live data from the stock market and shows it to you ba
 
 
 - **Technologies**: React.js / Tailwind CSS
+
+### VitShop
+*Sep 2022 - Nov 2022*
+
+From tantalizing treats to captivating curiosities, embark on a whimsical journey through our virtual marketplace, curated exclusively for the adventurous student in you!
+
+![image](https://github.com/user-attachments/assets/afec8336-4f0f-4ff4-b390-cf6ce1aeb4b1)
+
+- **Technologies**: HTML / CSS / Javascript / Complex Vanilla CSS Animations
