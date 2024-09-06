@@ -78,10 +78,9 @@ Built a web game, "Clash Of Chess," using Next.js and WebSockets. It’s a 5x5 g
 ### PlayMyDay
 *Jul 2024 - Present*
 
-![image](https://github.com/user-attachments/assets/e9e255a8-8d25-4a10-bd3f-cff88685128b)
-
-
 Created a productivity web app with Firebase for auth and data, React for interactive task management, and enhanced visuals using vanilla-tilt.js, and a 3D slider gallery with glassmorphism. Styled with Tailwind for a user-centric design.
+
+![image](https://github.com/user-attachments/assets/e9e255a8-8d25-4a10-bd3f-cff88685128b)
 
 - **Technologies**: React.js / react-tsparticles / Firebase / OAuth / Tailwind CSS
 
@@ -160,7 +159,7 @@ This weekend project is a website with a highly effective UI, built using the sh
 ### Sum-Rizz-Er
 *Oct 2023 - Nov 2023*
 
-Just finished a sleek web app that summarizes any article link in seconds, built with React, Vite, Tailwind, and Material UI, and powered by the "Article Extractor and Summarizer" API from RapidAPI.
+Finished a sleek web app that summarizes any article link in seconds, built with React, Vite, Tailwind, and Material UI, and powered by the "Article Extractor and Summarizer" API from RapidAPI.
 
 
 ![image](https://github.com/user-attachments/assets/fa7ba59f-dbbc-473a-97dd-743ec3f606d7)
