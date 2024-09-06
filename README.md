@@ -5,6 +5,15 @@
 
 ## 👨🏼‍💻 My Work 👨🏼‍💻
 
+### Portfolio Website ( My Piece of he-Art )
+*Aug 2023 - Feb 2024*
+
+A stunning, interactive website that features a meticulously crafted 3D replica of me and my room, blending creativity and technical skill to deliver a unique and engaging user experience.
+
+![image](https://github.com/user-attachments/assets/2df6e503-0c42-4614-86d8-98c45f5caa3e)
+
+- **Technologies**: React.js / Three.js / React-Three-Fiber / Framer Motion / Blender / Mixamo
+
 ### CashCount
 *Jan 2024 - Jul 2024*
 
