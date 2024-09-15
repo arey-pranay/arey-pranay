@@ -195,3 +195,13 @@ From tantalizing treats to captivating curiosities, embark on a whimsical journe
 ![image](https://github.com/user-attachments/assets/afec8336-4f0f-4ff4-b390-cf6ce1aeb4b1)
 
 - **Technologies**: HTML / CSS / Javascript / Complex Vanilla CSS Animations
+
+### WhatBytes Report Card Analysis
+*Jul 2024 - Jul 2024*
+
+A sleek, intuitive web app designed to easily manage and analyze student marks and percentiles, offering a clean, user-friendly interface for effortless tracking and modifications.
+
+![image](https://github.com/user-attachments/assets/f61cbbb3-24c8-4b54-9190-02297a7c4d76)
+
+- **Technologies**: Next.js / Javascript / Tailwind CSS / Chart.js
+
